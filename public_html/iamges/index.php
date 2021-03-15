@@ -1,8 +1,8 @@
 <?php
     $sharexdir = "";
-    $N_URL = "https://roblox.com/";
-    $Link = "https://whitelistme2.000webhostapp.com";
-    $domain_url = 'https://whitelistme2.000webhostapp.com/iamges/';
+    $N_URL = "https://sex.xxx";
+    $Link = "https://frixels.github.io/idkDEDtest";
+    $domain_url = 'https://frixels.github.io/idkDEDtest/iamges/';
     $lengthofstring = 6; 
 
     function RandomString($length) {
